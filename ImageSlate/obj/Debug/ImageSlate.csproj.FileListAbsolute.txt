@@ -1,0 +1,7 @@
+D:\Develop\C# programs\ImageSlate\ImageSlate\bin\Debug\ImageSlate.exe.config
+D:\Develop\C# programs\ImageSlate\ImageSlate\obj\Debug\ImageSlate.csprojResolveAssemblyReference.cache
+D:\Develop\C# programs\ImageSlate\ImageSlate\bin\Debug\ImageSlate.exe
+D:\Develop\C# programs\ImageSlate\ImageSlate\bin\Debug\ImageSlate.pdb
+D:\Develop\C# programs\ImageSlate\ImageSlate\bin\Debug\Newtonsoft.Json.dll
+D:\Develop\C# programs\ImageSlate\ImageSlate\obj\Debug\ImageSlate.exe
+D:\Develop\C# programs\ImageSlate\ImageSlate\obj\Debug\ImageSlate.pdb
